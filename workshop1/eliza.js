@@ -208,6 +208,11 @@ var rules = {
     "Can you think of anyone in particular?",
     "Who, for example?",
     "You are thinking of a special person",
+    ],
+    "~*x When ~*y:" [
+"when you die"
+],
+    
   ],
   "~*x always ~*y": [
     "Can you think of a specific example?",
